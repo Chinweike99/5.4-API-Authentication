@@ -5,22 +5,7 @@
 			"path": ".."
 		},
 		{
-			"name": "5.2+JSON",
-			"path": "../../5.2+JSON"
-		},
-		{
-			"name": "5.3+Axios",
-			"path": "../../5.3+Axios"
-		},
-		{
-			"name": "APIs",
-			"path": "../../APIs"
-		},
-		{
 			"path": "../../5.5+REST+APIs"
-		},
-		{
-			"path": "../../5.6+Secrets+Project"
 		}
 	],
 	"settings": {}

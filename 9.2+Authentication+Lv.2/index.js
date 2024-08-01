@@ -75,7 +75,7 @@ app.post("/login", async (req, res) => {
 
       bcrypt.compare(loginPassword, storedHashedPassword, (err, result) =>{
         if(err){
-          console.log("Error comparing password: ", errr);
+          console.log("Error comparing password: ", err);
         }else{
           if(result){
             res.render("secrets.ejs");
